@@ -53,6 +53,15 @@ Exploratory data analysis of Tennessee's Student-Teacher Achievement Ratio (STAR
 
 **Key techniques:** Hypothesis testing, multiple regression analysis, data visualization, causal inference
 
+### Applied Regression Analysis Portfolio
+*R, Statistical Modeling* | [View Project](https://github.com/vydang02/STATS-413)
+
+![](/images/linear_regression.jpg)
+
+A comprehensive portfolio demonstrating advanced statistical modeling techniques through real-world applications. This project showcases my expertise in multiple regression, model diagnostics, polynomial fitting, and regularization methods to solve complex analytical problems.
+
+**Key techniques:** Multiple regression, interaction analysis, robust standard errors, ridge regression, model selection, cross-validation
+
 ### [Your Other Project]
 *[Technologies Used]* | [View Project](#)
 
