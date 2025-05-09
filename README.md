@@ -4,9 +4,16 @@
 
 ## About Me
 
-Hello! I'm Vy, a Business and Statistics student at the University of Michigan passionate about using data to solve real-world problems. I enjoy working at the intersection of business strategy and quantitative analysis, with experience spanning economic research, consulting, and data science.
+Hello! I'm Vy, a data-driven analyst at the intersection of business strategy and statistical methods. With a dual background in Business Administration and Statistics from the University of Michigan, I transform complex datasets into actionable business insights across economic research, consulting, and financial analysis domains.
 
-When I'm not coding or analyzing data, you can find me [your hobbies/interests here].
+My core strengths include:
+
+* Developing statistical models that illuminate market dynamics and economic trends
+* Translating complex quantitative findings into clear, accessible recommendations
+* Designing data workflows that enhance accuracy and streamline decision-making processes
+* Applying analytical rigor to business challenges through Python, R, and Stata implementations
+
+I excel at bridging quantitative analysis with strategic thinking, consistently delivering data-driven solutions that enhance business performance and provide competitive intelligence across diverse industry contexts.
 
 ## Projects
 
