@@ -1,4 +1,4 @@
-# Vy Dang
+# Hello, I'm ***Vy Dang***
 
 [Email](mailto:vykdang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khanh-vy-dang/) | [GitHub](https://github.com/vydang02)
 
