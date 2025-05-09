@@ -26,6 +26,7 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
 
 ### Tennessee STAR Education Analysis
 *R* | [View Project](#)
+
 ![Student](/images/students-learning-teacher_840x480.jpg)
 
 Exploratory data analysis of Tennessee's Student-Teacher Achievement Ratio (STAR) experiment, examining how class sizes impact student performance across different demographics. This project involved cleaning and analyzing 11,000+ student records across a 4-year longitudinal study.
