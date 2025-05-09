@@ -19,7 +19,9 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
 Key techniques: Anomaly detection, logistic regression, cost-sensitive learning, class imbalance handling
 ### Tennessee STAR Education Analysis
 R | [View Project](https://github.com/vydang02/Tennessee-STAR-EDA-Project)
+
 ![Student](/images/students-learning-teacher_840x480.jpg)
+
 Exploratory data analysis of Tennessee's Student-Teacher Achievement Ratio (STAR) experiment, examining how class sizes impact student performance across different demographics. This project involved cleaning and analyzing 11,000+ student records across a 4-year longitudinal study.
 Key techniques: Hypothesis testing, multiple regression analysis, data visualization, causal inference
 ### [Your Other Project]
