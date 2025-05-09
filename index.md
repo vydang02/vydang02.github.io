@@ -45,9 +45,10 @@ Exploratory data analysis of Tennessee's Student-Teacher Achievement Ratio (STAR
 
 ## Technical Skills
 
-- **Languages:** Python, R, SQL, Stata
-- **Data Science:** Statistical modeling, machine learning, data visualization
-- **Tools:** Jupyter, Git, Excel, Tableau
+- **Languages:** SQL (MySQL, Microsoft SQL Server, PostgreSQL), Python (scikit-learn, pandas, numpy, scipy, matplotlib, seaborn, etc.), R (dplyr, tidyr, plotly, ggplot2, shiny, stats, forecast, etc.), LaTeX
+- **Data Science:** Statistical modeling, regression analysis, AI/ML (supervised, unsupervised, deep learning, feature engineering), data visualization, Probability and statistics, Linear algebra, Game theory, Time series analysis, A/B testing and hypothesis testing, Equity research (DCF modeling, ratio analysis, valuation)
+- **Tools:** Tableau (dashboards, LOD, trend analysis), STATA (regression, statistical modeling), Excel (VBA, pivot tables, pivot charts), Google Analytics, Bloomberg (financial research), FactSet, GitHub
+- **Interpersonal Skills:** Stakeholder Engagement, Requirement Gathering, Usability Testing, Cross-functional Collaboration, Data Storytelling, Problem Solving, Attention to Detail
 
 ---
 
