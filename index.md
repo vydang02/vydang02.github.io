@@ -1,3 +1,20 @@
+<div class="banner">
+  <img src="/images/analytics_banner.jpg" alt="Data Analysis Banner">
+</div>
+
+<style>
+  .banner {
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden;
+    max-height: 250px;
+  }
+  .banner img {
+    width: 100%;
+    object-fit: cover;
+  }
+</style>
+
 # Hello, I'm ***Vy Dang***
 
 [Email](mailto:vykdang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khanh-vy-dang/) | [GitHub](https://github.com/vydang02)
