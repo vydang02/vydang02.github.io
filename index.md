@@ -2,6 +2,8 @@
 layout: default
 title: Vy Dang - Portfolio
 ---
+# Vy Dang
+[Email](mailto:vykdang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khanh-vy-dang/) | [GitHub](https://github.com/vydang02) 
 
 <div id="about">
   <h2>About Me</h2>
