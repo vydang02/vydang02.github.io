@@ -20,6 +20,9 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
 ### Credit Card Fraud Analytics
 *Python (PyTorch, Pandas, NumPy)* | [View Project](https://github.com/vydang02/STATS-507-Credit-Card-Fraud-Detection-NLP-Model)
 
+![](/images/credit_card_fraud.jpg)
+
+
 An end-to-end machine learning project focused on detecting fraudulent credit card transactions. Using a dataset of over 1 million transactions, I built a cost-sensitive fraud detection model that improved accuracy by 15% and reduced false positives by 20%.
 
 **Key techniques:** Anomaly detection, logistic regression, cost-sensitive learning, class imbalance handling
