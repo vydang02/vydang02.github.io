@@ -17,7 +17,25 @@
 
 # Hello, I'm ***Vy Dang***
 
-[Email](mailto:vykdang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khanh-vy-dang/) | [GitHub](https://github.com/vydang02) | (734)-276-5348
+<div class="contact-info">
+  <a href="mailto:vykdang@gmail.com">Email</a>
+  <span class="separator">•</span>
+  <a href="https://www.linkedin.com/in/khanh-vy-dang/">LinkedIn</a>
+  <span class="separator">•</span>
+  <a href="https://github.com/vydang02">GitHub</a>
+  <span class="separator">•</span>
+  <span>(734)-276-5348</span>
+</div>
+
+<style>
+  .contact-info {
+    margin: 10px 0;
+  }
+  .separator {
+    margin: 0 10px;
+    color: #ccc;
+  }
+</style>
 
 ## About Me
 
