@@ -62,10 +62,15 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
 Exploratory data analysis of Tennessee's Student-Teacher Achievement Ratio (STAR) experiment, examining how class sizes impact student performance across different demographics. This project involved cleaning and analyzing 11,000+ student records across a 4-year longitudinal study.
 
 **Key techniques:** Hypothesis testing, multiple regression analysis, data visualization, causal inference
+
 - **Statistical Analysis:** Marginal and joint distribution analysis, conditional distributions, numerical summaries using dplyr (group_by/summarize/mutate), centered measure calculations, mean/median comparisons across cohorts
+  
 - **Data Visualization:** Advanced ggplot2 (faceted plots with facet_grid, coord_flip transformations, stat_summary for statistical aggregations, geom_bin_2d heatmaps), multivariate visualization across school types and demographics
+  
 - **Programming & Automation:** Custom R functions (group_by_column for flexible grouping, is_integer predicate function), tidy evaluation with {{}} syntax, pipeline operations with magrittr pipes
+  
 - **Data Manipulation:** Complex dplyr workflows (filter/select operations, group_by with multiple variables, across() for column-wise operations), na.omit and na.rm handling for 5,800+ missing values
+  
 - **Advanced R Operations:** Custom theme development for publication-quality plots, factor manipulation for categorical variables, table operations for complex educational metric aggregations
 
 ### Applied Regression Analysis Portfolio
