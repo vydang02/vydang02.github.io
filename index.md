@@ -62,7 +62,7 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
         <h4>Health and Retirement Study (HRS)</h4>
       </a>
     </div>
-    <p>Conducted advanced statistical research analyzing longitudinal data on America's aging population. Applied econometric methods to study health and retirement trends from the nation's premier aging study to inform public policy decisions.</p>
+    <p>Conducted advanced statistical research analyzing longitudinal data on America's aging population to study retirement trends and inform public policy decisions.</p>
   </div>
 </div>
 
