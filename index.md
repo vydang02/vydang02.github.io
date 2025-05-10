@@ -32,6 +32,73 @@ My core strengths include:
 
 I excel at bridging quantitative analysis with strategic thinking, consistently delivering data-driven solutions that enhance business performance and provide competitive intelligence across diverse industry contexts.
 
+## Work Experience
+
+<div class="experience-section">
+  <div class="company-card">
+    <img src="/images/pwc_logo.png" alt="PwC" class="company-logo">
+    <h3>PwC</h3>
+    <p>Delivered data-driven insights for Fortune 500 clients, specializing in financial analytics and risk modeling.</p>
+  </div>
+  
+  <div class="company-card">
+    <img src="/images/BCG-Logo.png" alt="Boston Consulting Group" class="company-logo">
+    <h3>Boston Consulting Group</h3>
+    <p>Led quantitative analysis projects, developing statistical models to drive strategic business decisions.</p>
+  </div>
+  
+  <div class="company-card">
+    <img src="/images/ISR_logo.png" alt="University of Michigan Institute for Social Research" class="company-logo">
+    <h3>UMich Institute for Social Research</h3>
+    <p>Conducted advanced statistical research, analyzing large-scale datasets to inform public policy decisions.</p>
+  </div>
+</div>
+
+<style>
+  .experience-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin: 40px 0;
+  }
+  
+  .company-card {
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background: #f8f9fa;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .company-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+  
+  .company-logo {
+    height: 60px;
+    width: auto;
+    margin-bottom: 15px;
+  }
+  
+  .company-card h3 {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .company-card p {
+    color: #666;
+    font-size: 0.95em;
+    line-height: 1.5;
+  }
+  
+  @media (max-width: 768px) {
+    .experience-section {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
 ## Projects
 
 ### Credit Card Fraud Analytics
