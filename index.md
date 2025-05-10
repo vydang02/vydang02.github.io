@@ -37,7 +37,7 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
 <div class="experience-section">
   <div class="company-card">
     <a href="https://www.pwc.com/" target="_blank" class="company-link">
-      <img src="/images/pwc-logo.png" alt="PwC" class="company-logo">
+      <img src="/images/pwc_logo.png" alt="PwC" class="company-logo">
       <h3>PwC</h3>
     </a>
     <p>Delivered data-driven insights for Fortune 500 clients, specializing in financial analytics and risk modeling.</p>
@@ -45,7 +45,7 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
   
   <div class="company-card">
     <a href="https://www.bcg.com/" target="_blank" class="company-link">
-      <img src="/images/bcg-logo.png" alt="Boston Consulting Group" class="company-logo">
+      <img src="/images/BCG-Logo.png" alt="Boston Consulting Group" class="company-logo">
       <h3>Boston Consulting Group</h3>
     </a>
     <p>Led quantitative analysis projects, developing statistical models to drive strategic business decisions.</p>
@@ -53,12 +53,12 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
   
   <div class="company-card isr-card">
     <a href="https://isr.umich.edu/" target="_blank" class="company-link">
-      <img src="/images/umich-isr-logo.png" alt="University of Michigan Institute for Social Research" class="company-logo">
+      <img src="/images/ISR_logo.png" alt="University of Michigan Institute for Social Research" class="company-logo">
       <h3>UMich Institute for Social Research</h3>
     </a>
     <div class="sub-organization">
       <a href="https://hrs.isr.umich.edu/" target="_blank" class="company-link">
-        <img src="/images/hrs-logo.png" alt="Health and Retirement Study" class="sub-logo">
+        <img src="/images/hrs_logo.jpeg" alt="Health and Retirement Study" class="sub-logo">
         <h4>Health and Retirement Study (HRS)</h4>
       </a>
     </div>
