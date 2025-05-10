@@ -46,7 +46,7 @@ My core strengths include:
 * Developing statistical models that illuminate market dynamics and economic trends
 * Translating complex quantitative findings into clear, accessible recommendations
 * Designing data workflows that enhance accuracy and streamline decision-making processes
-* Applying analytical rigor to business challenges through Python, R, and Stata implementations
+* Applying analytical rigor to business challenges through SQL, Python, R, and Stata implementations
 
 I excel at bridging quantitative analysis with strategic thinking, consistently delivering data-driven solutions that enhance business performance and provide competitive intelligence across diverse industry contexts.
 
