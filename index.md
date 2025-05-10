@@ -35,7 +35,7 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
 ## Projects
 
 ### Credit Card Fraud Analytics
-*Python (PyTorch, Pandas, NumPy)* | [View Project](https://github.com/vydang02/STATS-507-Credit-Card-Fraud-Detection-NLP-Model)
+*Python (PyTorch, Pandas, NumPy, scikit-learn, transformers, SMOTE, NLP Model Fine-tuning)* | [View Project](https://github.com/vydang02/STATS-507-Credit-Card-Fraud-Detection-NLP-Model)
 
 ![](/images/credit_card_fraud.jpg)
 
@@ -43,6 +43,16 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
 An end-to-end machine learning project focused on detecting fraudulent credit card transactions. Using a dataset of over 1 million transactions, I built a cost-sensitive fraud detection model that improved accuracy by 15% and reduced false positives by 20%.
 
 **Key techniques:** Anomaly detection, logistic regression, cost-sensitive learning, class imbalance handling
+
+- **Machine Learning:** Class imbalance handling (SMOTE, class weights), cost-sensitive learning, hyperparameter tuning
+  
+- **Deep Learning:** Transfer learning, BERT fine-tuning, custom dataset classes, gradient clipping, learning rate scheduling
+
+- **Feature Engineering:** Text transformation from tabular data, automated pipeline construction, column transformers
+  
+- **Statistical Analysis:** Bootstrap confidence intervals, McNemar's test, ROC/PR curve analysis, distribution visualization
+  
+- **Model Evaluation:** Precision-recall optimization, threshold tuning, confusion matrix analysis, KDE plots
 
 ### Tennessee STAR Education Analysis
 *R (ggplot2, dplyr, tidyr, AER, stats)* | [View Project](https://github.com/vydang02/Tennessee-STAR-EDA-Project)
