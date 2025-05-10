@@ -223,13 +223,23 @@ Exploratory data analysis of Tennessee's Student-Teacher Achievement Ratio (STAR
 - **Advanced R Operations:** Custom theme development for publication-quality plots, factor manipulation for categorical variables, table operations for complex educational metric aggregations
 
 ### Applied Regression Analysis Portfolio
-*R, Statistical Modeling* | [View Project](https://github.com/vydang02/STATS-413)
+*R, Statistical Modeling (car, sandwich, lmtest, leaps, glmnet, MASS)* | [View Project](https://github.com/vydang02/STATS-413)
 
 ![](/images/linear_regression.jpg)
 
 A comprehensive portfolio demonstrating advanced statistical modeling techniques through real-world applications. This project showcases my expertise in multiple regression, model diagnostics, polynomial fitting, and regularization methods to solve complex analytical problems.
 
 **Key techniques:** Multiple regression, interaction analysis, robust standard errors, ridge regression, model selection, cross-validation
+
+- **Regression Diagnostics:** Comprehensive diagnostic analysis (linearity, homoscedasticity, normality checks), VIF calculation for multicollinearity detection, leverage and influence point identification, heteroscedasticity-consistent standard errors (HC1, HC2)
+  
+- **Advanced Modeling:** Multiple regression with interaction terms, polynomial regression of varying degrees, ridge regression for multicollinearity handling, best subset selection with AIC/BIC criteria
+  
+- **Simulation Studies:** Monte Carlo simulations (10,000 iterations) for inference robustness, coverage probability assessment under assumption violations, comparison of standard vs. robust standard errors, impact of non-normality and heteroscedasticity on confidence intervals
+  
+- **Model Selection:** Forward stepwise and backward elimination procedures, cross-validation for model comparison, out-of-sample R² evaluation, optimal model complexity determination
+  
+- **Statistical Inference:** Bootstrap confidence intervals with pairs resampling, hypothesis testing with multiple comparison corrections, variance-covariance matrix manipulation, t-distribution based inference procedures
 
 ### [Your Other Project]
 *[Technologies Used]* | [View Project](#)
