@@ -24,7 +24,7 @@
   <span class="separator">•</span>
   <a href="https://github.com/vydang02">GitHub</a>
   <span class="separator">•</span>
-  <span>(734)-276-5348</span>
+  <span> Tel: (734)-276-5348</span>
 </div>
 
 <style>
