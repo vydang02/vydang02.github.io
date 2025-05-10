@@ -36,21 +36,33 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
 
 <div class="experience-section">
   <div class="company-card">
-    <img src="/images/pwc_logo.png" alt="PwC" class="company-logo">
-    <h3>PwC</h3>
+    <a href="https://www.pwc.com/" target="_blank" class="company-link">
+      <img src="/images/pwc-logo.png" alt="PwC" class="company-logo">
+      <h3>PwC</h3>
+    </a>
     <p>Delivered data-driven insights for Fortune 500 clients, specializing in financial analytics and risk modeling.</p>
   </div>
   
   <div class="company-card">
-    <img src="/images/BCG-Logo.png" alt="Boston Consulting Group" class="company-logo">
-    <h3>Boston Consulting Group</h3>
+    <a href="https://www.bcg.com/" target="_blank" class="company-link">
+      <img src="/images/bcg-logo.png" alt="Boston Consulting Group" class="company-logo">
+      <h3>Boston Consulting Group</h3>
+    </a>
     <p>Led quantitative analysis projects, developing statistical models to drive strategic business decisions.</p>
   </div>
   
-  <div class="company-card">
-    <img src="/images/ISR_logo.png" alt="University of Michigan Institute for Social Research" class="company-logo">
-    <h3>UMich Institute for Social Research</h3>
-    <p>Conducted advanced statistical research, analyzing large-scale datasets to inform public policy decisions.</p>
+  <div class="company-card isr-card">
+    <a href="https://isr.umich.edu/" target="_blank" class="company-link">
+      <img src="/images/umich-isr-logo.png" alt="University of Michigan Institute for Social Research" class="company-logo">
+      <h3>UMich Institute for Social Research</h3>
+    </a>
+    <div class="sub-organization">
+      <a href="https://hrs.isr.umich.edu/" target="_blank" class="company-link">
+        <img src="/images/hrs-logo.png" alt="Health and Retirement Study" class="sub-logo">
+        <h4>Health and Retirement Study (HRS)</h4>
+      </a>
+    </div>
+    <p>Conducted advanced statistical research analyzing longitudinal data on America's aging population. Applied econometric methods to study health and retirement trends from the nation's premier aging study to inform public policy decisions.</p>
   </div>
 </div>
 
@@ -75,21 +87,73 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   }
   
+  .company-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+  
+  .company-link:hover {
+    text-decoration: none;
+  }
+  
   .company-logo {
     height: 60px;
     width: auto;
     margin-bottom: 15px;
+    transition: transform 0.3s ease;
+  }
+  
+  .company-link:hover .company-logo {
+    transform: scale(1.05);
   }
   
   .company-card h3 {
     margin: 10px 0;
     color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .company-link:hover h3 {
+    color: #0066cc;
   }
   
   .company-card p {
     color: #666;
     font-size: 0.95em;
     line-height: 1.5;
+  }
+  
+  .sub-organization {
+    margin: 15px 0;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sub-logo {
+    height: 40px;
+    width: auto;
+    margin-bottom: 8px;
+    transition: transform 0.3s ease;
+  }
+  
+  .company-link:hover .sub-logo {
+    transform: scale(1.05);
+  }
+  
+  .sub-organization h4 {
+    margin: 5px 0;
+    color: #555;
+    font-size: 0.9em;
+    transition: color 0.3s ease;
+  }
+  
+  .company-link:hover h4 {
+    color: #0066cc;
   }
   
   @media (max-width: 768px) {
