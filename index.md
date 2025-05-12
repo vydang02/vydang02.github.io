@@ -266,7 +266,7 @@ A comprehensive enterprise resource planning (ERP) strategy for a $4B pharmaceut
 
 ![](/images/M&A_logo.jpg)
 
-A comprehensive valuation analysis of Saputo Inc.'s acquisition of Warrnambool Cheese & Butter Factory (WCB), Australia's oldest dairy manufacturer. Using discounted cash flow and multiple valuation methodologies, I work in a group to develop a fair price assessment that accounted for cross-border considerations, exchange rate forecasting, and industry-specific factors.
+A comprehensive valuation analysis of Saputo Inc.'s acquisition of Warrnambool Cheese & Butter Factory (WCB), Australia's oldest dairy manufacturer. Using discounted cash flow and multiple valuation methodologies, I worked in a group to develop a fair price assessment that accounted for cross-border considerations, exchange rate forecasting, and industry-specific factors.
 
 **Key techniques:** DCF modeling, comparable company analysis, weighted valuation, cross-border considerations, sensitivity analysis
 
