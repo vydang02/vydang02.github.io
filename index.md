@@ -243,7 +243,7 @@ A comprehensive portfolio demonstrating advanced statistical modeling techniques
 
 
 ### ERP System Analysis for Pharmaceutical Distribution
-*Business Analysis, Strategic Planning, ERP Implementation* | [View Report](https://drive.google.com/file/d/102njUfGM1eByIjsdTUnLQOhyON6rcgrC/view?usp=sharing))
+*Business Analysis, Strategic Planning, ERP Implementation* | [View Report](https://drive.google.com/file/d/102njUfGM1eByIjsdTUnLQOhyON6rcgrC/view?usp=sharing)
 
 ![](/images/erp_logo.jpg)
 
