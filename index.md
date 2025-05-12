@@ -260,6 +260,25 @@ A comprehensive enterprise resource planning (ERP) strategy for a $4B pharmaceut
 - **Financial Analysis:** Comprehensive cost modeling ($245K-$2.55M range), ROI calculation, TCO analysis, licensing and implementation cost breakdown
   
 - **Risk Management:** Identification of implementation risks (data migration, user adoption, timeline delays), development of mitigation strategies, contingency planning for business continuity
+
+### Warrnambool Acquisition Valuation Analysis
+*Financial Modeling, Valuation, M&A Analysis* | [View Report](https://drive.google.com/file/d/1QBHQ-y64M9kXIWDTcGAcM0M1WPvpP1IG/view?usp=sharing)
+
+![](/images/dairy_acquisition.jpg)
+
+A comprehensive valuation analysis of Saputo Inc.'s acquisition of Warrnambool Cheese & Butter Factory (WCB), Australia's oldest dairy manufacturer. Using discounted cash flow and multiple valuation methodologies, I developed a fair price assessment that accounted for cross-border considerations, exchange rate forecasting, and industry-specific factors.
+
+**Key techniques:** DCF modeling, comparable company analysis, weighted valuation, cross-border considerations, sensitivity analysis
+
+- **Financial Modeling:** Built complex DCF model with 10-year projection period, terminal value calculation, exchange rate forecasting, and iterative debt-to-enterprise value optimization using goal seek functionality
+  
+- **Cost of Capital Analysis:** Calculated WACC using regression-based beta estimation, risk premium adjustments, credit rating analysis, and cross-border cost of debt determination
+  
+- **Multiple Valuation:** Performed EV/EBITDA and P/E multiple analysis with industry-specific comparables, geographic market adjustments, and currency conversion between AUD and USD
+  
+- **Long-Term Growth Projection:** Developed custom long-term growth projection based on reinvestment rate analysis, return on invested capital calculations, and comparison against global dairy industry growth rates
+  
+- **Sensitivity Analysis:** Created weighted valuation framework (80% DCF, 20% multiples) accounting for business model uniqueness, exchange rate volatility, and management strategy considerations
   
 ### [Your Other Project]
 *[Technologies Used]* | [View Project](#)
