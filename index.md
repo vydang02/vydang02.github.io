@@ -184,7 +184,7 @@ I excel at bridging quantitative analysis with strategic thinking, consistently 
 ## Projects
 
 ### Credit Card Fraud Analytics
-*Python (PyTorch, Pandas, NumPy, scikit-learn, transformers, SMOTE, NLP Model Fine-tuning)* | [View Project](https://github.com/vydang02/STATS-507-Credit-Card-Fraud-Detection-NLP-Model)
+*Python (PyTorch, Pandas, NumPy, scikit-learn, transformers, SMOTE, NLP Model Fine-tuning)* | [View Project](https://github.com/vydang02/STATS-507-Credit-Card-Fraud-Detection-NLP-Model) | [View Report]([https://github.com/vydang02/Tennessee-STAR-EDA-Project](https://github.com/vydang02/STATS-507-Credit-Card-Fraud-Detection-NLP-Model/blob/main/Project%20Report.pdf)
 
 ![](/images/credit_card_fraud.jpg)
 
