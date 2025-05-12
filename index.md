@@ -245,7 +245,7 @@ A comprehensive portfolio demonstrating advanced statistical modeling techniques
 ### ERP System Analysis for Pharmaceutical Distribution
 *Business Analysis, Strategic Planning, ERP Implementation* | [View Report](https://drive.google.com/file/d/102njUfGM1eByIjsdTUnLQOhyON6rcgrC/view?usp=sharing))
 
-![](/images/pharma_erp.jpg)
+![](/images/erp_logo.jpg)
 
 A comprehensive enterprise resource planning (ERP) strategy for a $4B pharmaceutical distributor facing legacy system end-of-life. As part of a consulting team, I evaluated SAP S/4HANA, Oracle, and Batchmaster against industry requirements, developing a strategic implementation roadmap with detailed cost-benefit analysis.
 
