@@ -241,6 +241,26 @@ A comprehensive portfolio demonstrating advanced statistical modeling techniques
   
 - **Statistical Inference:** Bootstrap confidence intervals with pairs resampling, hypothesis testing with multiple comparison corrections, variance-covariance matrix manipulation, t-distribution based inference procedures
 
+
+### ERP System Analysis for Pharmaceutical Distribution
+*Business Analysis, Strategic Planning, ERP Implementation* | [View Report](assets/pdf/pharma_erp_analysis.pdf](https://drive.google.com/file/d/102njUfGM1eByIjsdTUnLQOhyON6rcgrC/view?usp=sharing))
+
+![](/images/pharma_erp.jpg)
+
+A comprehensive enterprise resource planning (ERP) strategy for a $4B pharmaceutical distributor facing legacy system end-of-life. As part of a consulting team, I evaluated SAP S/4HANA, Oracle, and Batchmaster against industry requirements, developing a strategic implementation roadmap with detailed cost-benefit analysis.
+
+**Key techniques:** Systems evaluation, requirements analysis, implementation planning, cost-benefit analysis, risk mitigation
+
+- **Industry Analysis:** Pharmaceutical distribution market assessment, regulatory compliance mapping, competitive positioning analysis, industry-specific ERP requirements identification
+  
+- **Systems Evaluation:** Comparative analysis of Tier 1 ERP systems (SAP, Oracle) against specialized solutions, feature mapping against pharma-specific requirements, scalability and integration assessment
+  
+- **Strategic Planning:** Five-phase implementation roadmap development, phased transition strategy, hybrid implementation model combining internal expertise with external consultants
+  
+- **Financial Analysis:** Comprehensive cost modeling ($245K-$2.55M range), ROI calculation, TCO analysis, licensing and implementation cost breakdown
+  
+- **Risk Management:** Identification of implementation risks (data migration, user adoption, timeline delays), development of mitigation strategies, contingency planning for business continuity
+  
 ### [Your Other Project]
 *[Technologies Used]* | [View Project](#)
 
