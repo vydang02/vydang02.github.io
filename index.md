@@ -207,7 +207,7 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
 
 ![](/images/Dashboard_1.png)
 
-[View My Tableau Public](https://public.tableau.com/app/profile/vy.dang4934/viz/CreditCardFraudProjectOverview/Dashboard1))
+[View this dashboard on my Tableau Public](https://public.tableau.com/app/profile/vy.dang4934/viz/CreditCardFraudProjectOverview/Dashboard1)
 
 ### Tennessee STAR Education Analysis
 *R (ggplot2, dplyr, tidyr, AER, stats)* | [View Project](https://github.com/vydang02/Tennessee-STAR-EDA-Project)
