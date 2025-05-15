@@ -205,7 +205,7 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
   
 - **Model Evaluation:** Precision-recall optimization, threshold tuning, confusion matrix analysis, KDE plots
 
-![](/images/Dashboard 1.png)
+![](/images/Dashboard_1.png)
 
 ### Tennessee STAR Education Analysis
 *R (ggplot2, dplyr, tidyr, AER, stats)* | [View Project](https://github.com/vydang02/Tennessee-STAR-EDA-Project)
