@@ -211,7 +211,7 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
 
 ![](/images/test_case_results.png)
 
-Some test case results, the fine-tuned risk-scoring model better score different risk levels than the original model.
+Some test case results, the fine-tuned risk-scoring model scores different risk levels better than the original model.
 
 ### Tennessee STAR Education Analysis
 *R (ggplot2, dplyr, tidyr, AER, stats)* | [View Project](https://github.com/vydang02/Tennessee-STAR-EDA-Project)
