@@ -209,6 +209,10 @@ An end-to-end machine learning project focused on detecting fraudulent credit ca
 
 [View this dashboard on my Tableau Public](https://public.tableau.com/app/profile/vy.dang4934/viz/CreditCardFraudProjectOverview/Dashboard1)
 
+![](/images/test_case_results.png)
+
+Some test case results, the fine-tuned risk-scoring model better score different risk levels than the original model.
+
 ### Tennessee STAR Education Analysis
 *R (ggplot2, dplyr, tidyr, AER, stats)* | [View Project](https://github.com/vydang02/Tennessee-STAR-EDA-Project)
 
